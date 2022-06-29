@@ -1,12 +1,12 @@
 {
-  "name": "xray",
-  "description": "将xray部署在Heroku上",
+  "name": "conscious",
+  "description": "That may sound strange",
   "keywords": [
-    "VMess VLESS"
+    "interface"
   ],
   "env": {
     "PROTOCOL": {
-      "description": "协议VMess或VLESS，请填小写的vmess或vless",
+      "description": "The resources that Curry had are inaccessible to most athletes",
       "value": "vmess",
       "required": true
     },
@@ -16,13 +16,13 @@
       "required": false
     },
     "WS_PATH": {
-      "description": "websocket路径",
-      "value": "/ray",
+      "description": "路径",
+      "value": "/fly",
       "required": true
     }
   },
-  "website": "https://github.com/worldcom47/inediso",
-  "repository": "https://github.com/worldcom47/inediso",
+  "website": "https://github.com/lighter8088/velvet3",
+  "repository": "https://github.com/lighter8088/velvet3",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
